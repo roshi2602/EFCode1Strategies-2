@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\bin\Debug\Strategy.dll.dll.config
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\bin\Debug\Strategy.dll.dll
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\bin\Debug\Strategy.dll.pdb
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\obj\Debug\CL.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\obj\Debug\CL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\obj\Debug\CL.csproj.CopyComplete
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\obj\Debug\Strategy.dll.dll
+C:\Users\lenovo\source\repos\EFCode1Strategy-2\Strategy.dll\obj\Debug\Strategy.dll.pdb
